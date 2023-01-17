@@ -1,0 +1,17 @@
+[  
+  {  
+    "code":"ar",
+    "name":"Arabic",
+    "nativeName":"العربية"
+  },
+  {  
+    "code":"en",
+    "name":"English",
+    "nativeName":"English"
+  },
+  {  
+    "code":"fa",
+    "name":"Persian",
+    "nativeName":"فارسی"
+  }
+]
